@@ -174,8 +174,7 @@ project/
 │
 ├── notebook.ipynb
 ├── report.pdf
-├── README.md
-└── requirements.txt
+└── README.md
 ```
 
 ## How to Run
