@@ -180,18 +180,6 @@ project/
 
 ## How to Run
 
-Clone repository:
-
-```
-git clone https://github.com/yourusername/simplicial-patterns
-```
-
-Install dependencies:
-
-```
-pip install -r requirements.txt
-```
-
 Run notebook:
 
 ```
